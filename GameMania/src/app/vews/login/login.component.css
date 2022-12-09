@@ -1,0 +1,51 @@
+#barraMenu{
+    width: 1920px;
+  }
+  .imagensLogin{
+        display: flex;
+      width: 1300px;
+     } 
+  #imgLogin1 img{
+       width: 450px;
+       padding: 30px 40px;
+       margin: -430px 400px 0px 0px;
+     }
+  #imgLogin2 img{
+       width: 600px;    
+       margin: -430px 0px 0px 440px;
+     }
+   .logos Menu{
+      margin-left: 50px;
+   }
+   .container{
+    display: flex;
+   } 
+    .email input{  
+    width: 400px;   
+    margin: -190px 650px;
+   }
+   .form-label{
+      margin: 200px 650px;
+   }
+   .senha input{
+    width: 400px;
+    margin: -150px 600px;
+  }
+  #exampleInputPassword1{
+    margin: -190px 650px;
+  }
+   #botaoLogin{
+    margin: -170px 650px;
+   }
+   .form-check{
+    margin: 200px 650px;
+   }
+
+   .form-label {
+    margin: 0 50px ;
+    position: absolute;   
+   }
+
+   .form-floating input{
+    color: #fff;
+   }
